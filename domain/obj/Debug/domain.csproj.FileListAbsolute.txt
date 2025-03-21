@@ -1,0 +1,12 @@
+C:\Users\gasto\source\repos\C# 2\winform1\domain\bin\Debug\domain.dll
+C:\Users\gasto\source\repos\C# 2\winform1\domain\bin\Debug\domain.pdb
+C:\Users\gasto\source\repos\C# 2\winform1\domain\obj\Debug\domain.csproj.AssemblyReference.cache
+C:\Users\gasto\source\repos\C# 2\winform1\domain\obj\Debug\domain.csproj.CoreCompileInputs.cache
+C:\Users\gasto\source\repos\C# 2\winform1\domain\obj\Debug\domain.dll
+C:\Users\gasto\source\repos\C# 2\winform1\domain\obj\Debug\domain.pdb
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\domain\bin\Debug\domain.dll
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\domain\bin\Debug\domain.pdb
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\domain\obj\Debug\domain.csproj.AssemblyReference.cache
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\domain\obj\Debug\domain.csproj.CoreCompileInputs.cache
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\domain\obj\Debug\domain.dll
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\domain\obj\Debug\domain.pdb

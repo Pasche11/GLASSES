@@ -1,0 +1,21 @@
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\winform1.exe.config
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\winform1.exe
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\winform1.pdb
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.csproj.AssemblyReference.cache
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.Properties.Resources.resources
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.csproj.GenerateResource.cache
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.csproj.CoreCompileInputs.cache
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.exe
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.pdb
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.nuevoCliente.resources
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.MenuPrincipal.resources
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.LogIn.resources
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\controller.dll
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\domain.dll
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\controller.pdb
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\bin\Debug\domain.pdb
+C:\Users\gasto\source\repos\C# 2\winform1\winform1\obj\Debug\winform1.csproj.CopyComplete
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\winform1\obj\Debug\winform1.csproj.AssemblyReference.cache
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\winform1\obj\Debug\winform1.exe
+C:\Users\gasto\OneDrive\Escritorio\Dev\GLASSES\winform1\obj\Debug\winform1.pdb
